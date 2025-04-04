@@ -15,5 +15,5 @@ For `tidyvyur`, it can be installed from its [Github](https://github.com/JohnFra
 
 ```
 install.packages("remotes") #Install the remotes packages (if necessary)
-remotes::install_github("r-lib/conflicted")
+remotes::install_github("johnfranchak/tidyvyur")
 ```

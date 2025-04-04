@@ -1,6 +1,6 @@
-require(tidyverse)
-require(tidyvyur)
-require(here)
+library(tidyverse)
+library(tidyvyur)
+library(here)
 
 # List opf_files for easy iteration
 opf_files <- list.files(path = here("opf_files"), pattern = ".opf", full.names = T)

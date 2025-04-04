@@ -1,0 +1,26 @@
+{
+    "id": "B6D2DC15",
+    "path": "~/Documents/GitHub/datavyu_lab_examples/tidyvyur_scripts/export_pos.R",
+    "project_path": "tidyvyur_scripts/export_pos.R",
+    "type": "r_source",
+    "hash": "0",
+    "contents": "",
+    "dirty": false,
+    "created": 1743796644110.0,
+    "source_on_save": false,
+    "relative_order": 1,
+    "properties": {
+        "source_window_id": "",
+        "Source": "Source",
+        "cursorPosition": "28,48",
+        "scrollLine": "2"
+    },
+    "folds": "",
+    "lastKnownWriteTime": 1743797421,
+    "encoding": "UTF-8",
+    "collab_server": "",
+    "source_window": "",
+    "last_content_update": 1743797421667,
+    "read_only": false,
+    "read_only_alternatives": []
+}

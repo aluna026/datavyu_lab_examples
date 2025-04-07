@@ -1,3 +1,5 @@
+install.packages("remotes")
+remotes::install_github("johnfranchak/tidyvyur")
 library(tidyverse)
 library(tidyvyur)
 library(here)
